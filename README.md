@@ -31,11 +31,6 @@ Edit
 ├── index.html # Full HTML, CSS, and JS in one file (easy drop-in)
 └── README.md # This file
 
-yaml
-Copy
-Edit
-
----
 
 ## 📦 Installation & Usage
 
@@ -46,10 +41,6 @@ Edit
 Open index.html in your browser
 No server setup needed — everything runs locally.
 
-To add more quotes
 
-Open paragraphs.json
-
-Add new entries following the existing two-line format
 
 Enjoy typing Dostoevsky in style!
